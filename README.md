@@ -19,7 +19,7 @@ The val_loss at last comes out to be 0.1597 and it was able to correctly predict
 
 # Loss function
 For validation_data Mean Square Error (MSE) was used and in metrics Mean Absolute Error(MAE) is used for analyzing the performance of the model after every epoch.
-Value of l2_norm_constant 0.001 that is used while training the Model
+Value of l2_norm_constant 0.01 that is used while training the Model
 
 # Training
 I trained my model on google colab.It took me around 9-10 hours of training while I was trying for different hyper_parameters and I have trained on 2 different Model Architectures that i think was most suitable for the problem.
