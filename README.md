@@ -24,7 +24,7 @@ Value of l2_norm_constant 0.001 that is used while training the Model
 # Training
 I trained my model on google colab.It took me around 9-10 hours of training while I was trying for different hyper_parameters and I have trained on 2 different Model Architectures that i think was most suitable for the problem.
 
-Validation data was 20% of the total Training data that i used for analyzing the peroformance of the Model
+Validation data was 20% of the total Training data that i used for analyzing the performance of the Model
 
 # Testing
 
