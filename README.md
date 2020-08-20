@@ -30,5 +30,8 @@ Validation data was 20% of the total Training data that i used for analyzing the
 
 run.py and run2.py containse code for testing the model and its performance. This output video is on testing data (not on training data)
 
+# Sample_Video
+Aug-20-2020 15-20-28.gif
+
 # Reference
  Research paper: End to End Learning for Self-Driving Cars by Nvidia. [https://arxiv.org/pdf/1604.07316.pdf]
